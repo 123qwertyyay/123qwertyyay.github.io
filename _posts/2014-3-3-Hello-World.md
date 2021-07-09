@@ -16,4 +16,4 @@ Author: Mardochee Reveil
 During my first week, I learnt about molecular fingerprinting and read <a href="https://pubs.rsc.org/en/content/articlelanding/2018/me/c8me00003d#!divAbstract">the research paper</a> on SEING.
 
 ### Python wrapping
-Since the package was build in C/C++, my main task would involve building a python wrapper for it. I reasearched about it found out there are various methods to build a wrapper (something we will decide very soon). 
+Since the package was build in C/C++, my main task would involve building a python wrapper for it. I reasearched about it and found out that there are various methods to build a wrapper (something we will decide very soon).
