@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+An Undergraduate of Chemical Engineering, with strong inclination towards Python Programming Language, Computational Modelling and Content Development . Looking forward to opportunities that agree with this trajectory.
+I am extremely passionate about women, children and animal welfare. Always ready to lend a hand!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[caimiaranya2001@gmail.com](mailto:email@domain.com)
