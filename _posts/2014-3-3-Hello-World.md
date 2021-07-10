@@ -28,8 +28,6 @@ Here are a few GitHub resources you may checkout if you are starting out as sugg
 ### GitHub pages
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub. This is what I am using to make this blog. It is wasy to use, and a great way to document your projects!
 ## Week 3: Back to business!
-After what seemed to be a very tedious and cumbersome installation process came the time to actually use the package. 
-/*add about the testing- maybe photos, comparison of both wrappers- final decision*/
+After what seemed to be a very tedious and cumbersome installation process came the time to actually use the package.<br> 
+// add about the testing- maybe photos, comparison of both wrappers- final decision
 The research on python wrappers followed that. The top options were: pyBind11 and SWIG.
-
-
