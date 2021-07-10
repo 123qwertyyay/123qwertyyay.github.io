@@ -16,3 +16,12 @@ SEING is distributed as free and open-source code available on <a href="https://
 ### Python wrapping
 A function wrapper basically provides a different way to use wrapped object. Ex: a simpler interface, or some added functionality.<br>
 Since the package was build in C/C++, my main task would involve building a python wrapper for it. There are various methods to build a wrapper like manual, using SWIG, pyrex, pyBind11 etc. (something we will decide very soon).
+
+
+## Week 2 : Learning new thing!
+This internship has given me a platform to learn so many things that are vital for all programmers but I hadn't tried simply because of lack of an opportunity to use those skills.
+### Git and GitHub tutorials
+Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. <br>
+Here are a few GitHub resources you may checkout if you are starting out as suggested by my mentor: 
+1.<a href="https://docs.github.com/en/get-started/quickstart/set-up-git"> Setting up</a>
+2.<a href="https://github.com/firstcontributions/first-contributions:"> Learn about making contribution</a>
