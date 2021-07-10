@@ -19,17 +19,17 @@ Since the package was build in C/C++, my main task would involve building a pyth
 
 
 ## Week 2 : Learning new thing!
-This internship has given me a platform to learn so many things that are vital for all programmers but I hadn't tried simply because of lack of an opportunity to use those skills.
+This internship has given me a platform to learn so many things that are vital for all programmers but I hadn't tried simply because of the lack of an opportunity to use those skills.
 ### Git and GitHub tutorials
 Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. <br>
-Here are a few GitHub resources you may checkout if you are starting out as suggested by my mentor: 
+Here are a few GitHub resources you may checkout if you are starting out as suggested by my mentor: <br>
 1.<a href="https://docs.github.com/en/get-started/quickstart/set-up-git"> Setting up</a>
 2.<a href="https://github.com/firstcontributions/first-contributions:"> Learn about making contribution</a>
 ### GitHub pages
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub. This is what I am using to make this blog. It is wasy to use, and a great way to document your projects!
 ## Week 3: Back to business!
 After what seemed to be a very tedious and cumbersome installation process came the time to actually use the package. 
-#add about the testing- maybe photos, comparison of both wrappers- final decision
+/*add about the testing- maybe photos, comparison of both wrappers- final decision*/
 The research on python wrappers followed that. The top options were: pyBind11 and SWIG.
 
 
