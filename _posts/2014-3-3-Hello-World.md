@@ -23,7 +23,7 @@ This internship has given me a platform to learn so many things that are vital f
 ### Git and GitHub tutorials
 Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. <br>
 Here are a few GitHub resources you may checkout if you are starting out as suggested by my mentor: <br>
-1.<a href="https://docs.github.com/en/get-started/quickstart/set-up-git"> Setting up</a>
+1.<a href="https://docs.github.com/en/get-started/quickstart/set-up-git"> Setting up</a> <br>
 2.<a href="https://github.com/firstcontributions/first-contributions:"> Learn about making contribution</a>
 ### GitHub pages
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub. This is what I am using to make this blog. It is wasy to use, and a great way to document your projects!
