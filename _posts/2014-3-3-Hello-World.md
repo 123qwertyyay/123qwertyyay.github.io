@@ -25,6 +25,7 @@ You may ask, **WHY PYTHON** ? Let's do a quick comprison:<br>
             
         </tr>
     </thead>
+  ---
     <tbody>
         <tr>
             <td>Fast</td>
