@@ -16,7 +16,30 @@ SEING is distributed as free and open-source code available on <a href="https://
 ### Python wrapping
 A function wrapper basically provides a different way to use wrapped object. Ex: a simpler interface, or some added functionality.<br>
 Since the package was build in C/C++, my main task would involve building a python wrapper for it.<br>
-You may ask, <span class="underline">WHY PYTHON</span> ? Let's do a quick comprison:<br>
+You may ask, **WHY PYTHON** ? Let's do a quick comprison:<br>
+<table class="table">
+    <thead>
+        <tr>
+            <th>C++/C</th>
+            <th>Python</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Fast</td>
+            <td>Slow</td>
+            
+        </tr>
+        <tr>
+            <td>Low productivity; difficult to code</td>
+            <td>High productivity; easy to code</td>
+            <td>Batman</td>
+        </tr>
+        
+       
+    </tbody>
+</table>
 
 There are various methods to build a wrapper like manual, using SWIG, pyrex, pyBind11 etc. (something we will decide very soon).
 
