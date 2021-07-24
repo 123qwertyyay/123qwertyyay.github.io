@@ -32,5 +32,11 @@ Here are a few GitHub resources you may checkout if you are starting out as sugg
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub. This is what I am using to make this blog. It is wasy to use, and a great way to document your projects!
 ## Week 3: Back to business!
 After what seemed to be a very tedious and cumbersome installation process came the time to actually use the package.<br> 
-// add about the testing- maybe photos, comparison of both wrappers- final decision
 The research on python wrappers followed that. The top options were: pyBind11 and SWIG.
+We finally decided to go for pybind11. 
+-It supports classes.
+-It handles polymorphic subclassing.
+-It allows you to add dynamic attributes to objects from Python and many other tools, which would be quite difficult to do from the C-based tools you’ve examined.
+
+
+
