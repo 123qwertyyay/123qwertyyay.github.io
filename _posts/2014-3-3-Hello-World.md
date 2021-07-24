@@ -18,7 +18,7 @@ A function wrapper basically provides a different way to use wrapped object. Ex:
 Since the package was build in C/C++, my main task would involve building a python wrapper for it.<br>
 You may ask, **WHY PYTHON** ? Python is highly productive even though it is much slower when being computed. It is easy to code in, hence it's popularity.
 
-There are various methods to build a wrapper like manual, using SWIG, pyrex, pyBind11 etc. (something we will decide very soon).
+There are various methods to build a wrapper, using SWIG, pyrex, pyBind11 etc. (something we will decide very soon).
 
 
 ## Week 2 : Learning new thing!
@@ -38,6 +38,3 @@ We finally decided to go for pybind11.
 -It handles polymorphic subclassing.<br> 
 -It allows you to add dynamic attributes to objects from Python and many other tools, which would be quite difficult to do from the C-based tools you’ve examined.<br>
 ## Week 4: Let the wrapping begin
-
-
-
