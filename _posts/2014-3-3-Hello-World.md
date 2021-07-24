@@ -37,7 +37,7 @@ We finally decided to go for pybind11.
 -It supports classes.<br> 
 -It handles polymorphic subclassing.<br> 
 -It allows you to add dynamic attributes to objects from Python and many other tools, which would be quite difficult to do from the C-based tools you’ve examined.<br>
-## Week 4: Let the wraooing begin
+## Week 4: Let the wrapping begin
 
 
 
