@@ -33,10 +33,11 @@ GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScri
 ## Week 3: Back to business!
 After what seemed to be a very tedious and cumbersome installation process came the time to actually use the package.<br> 
 The research on python wrappers followed that. The top options were: pyBind11 and SWIG.
-We finally decided to go for pybind11.<br>  
+We finally decided to go for pybind11.  
 -It supports classes.<br> 
 -It handles polymorphic subclassing.<br> 
--It allows you to add dynamic attributes to objects from Python and many other tools, which would be quite difficult to do from the C-based tools you’ve examined.<br> 
+-It allows you to add dynamic attributes to objects from Python and many other tools, which would be quite difficult to do from the C-based tools you’ve examined.<br>
+## Week 4: Let the wraooing begin
 
 
 
